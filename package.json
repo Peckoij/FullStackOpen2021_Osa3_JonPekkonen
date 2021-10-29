@@ -1,0 +1,35 @@
+{
+  "name": "puhelinluettelobackend",
+  "version": "0.0.1",
+  "description": "Backend for puhelinluettelo react app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Peckoij/FullStackOpen2021_Osa3_JonPekkonen.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "backend",
+    "puhelinluettelo"
+  ],
+  "author": "Jon Pekkonen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Peckoij/FullStackOpen2021_Osa3_JonPekkonen/issues"
+  },
+  "homepage": "https://github.com/Peckoij/FullStackOpen2021_Osa3_JonPekkonen#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}

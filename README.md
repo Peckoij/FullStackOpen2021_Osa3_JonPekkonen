@@ -1,1 +1,1 @@
-# FullStackOpen2021_Osa3_JonPekkonen
+# FullStackOpen2021 kurssin osa 3
